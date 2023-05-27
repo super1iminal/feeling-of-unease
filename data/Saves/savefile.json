@@ -1,0 +1,30 @@
+{
+    "playerName": "asher",
+    "locations": [
+        {
+            "jsonCode": "00001",
+            "locked": false,
+            "beenVisited": true
+        },
+        {
+            "jsonCode": "00002",
+            "locked": false,
+            "beenVisited": true
+        },
+        {
+            "jsonCode": "00003",
+            "locked": false,
+            "beenVisited": true
+        },
+        {
+            "jsonCode": "00000",
+            "locked": false,
+            "beenVisited": false
+        }
+    ],
+    "items": [{
+        "code": 2,
+        "jsonLocation": "00002"
+    }],
+    "playerJsonLocation": "00002"
+}

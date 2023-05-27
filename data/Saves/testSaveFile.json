@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "code": "0001",
+      "jsonLocation": "99999"
+    },
+    {
+      "code": "0002",
+      "jsonLocation": "99999"
+    },
+    {
+      "code": "0003",
+      "jsonLocation": "99999"
+    }
+  ],
+
+  "locations": [
+    {
+      "jsonCode": "00001",
+      "unlocked": true
+    },
+    {
+      "jsonCode": "00002",
+      "unlocked": true
+    }
+  ],
+  "playerName": "super1iminal",
+  "playerJsonLocation": "00001"
+}

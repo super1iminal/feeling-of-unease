@@ -1,0 +1,3 @@
+The filename must match exactly the 'name' field of the object it describes.
+The splitter is currently [-]
+All descriptors must exist (i.e. search, description)

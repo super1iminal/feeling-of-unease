@@ -1,0 +1,7 @@
+Right. You can write 'move [direction]' to move in a specific direction
+(although this is quite limited right now), you can write 'search' to see what items you
+can grab, you can write 'unlock [x]' to unlock a lock (tip: you'll have to write unlock house)
+once you find the key. You can always write 'help' for help. Also, if you know the name of the item you want,
+you may write 'grab [item_name]'. You can also drop the item by writing 'drop [item name]'.
+You may also write 'look' to look around. You can see your items by typing 'inventory'.
+You can quit by typing 'quit'.
